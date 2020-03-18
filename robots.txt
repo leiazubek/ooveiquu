@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eefiefaok.jonfuller.co/sitemap.xml
